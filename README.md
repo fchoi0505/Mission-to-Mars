@@ -10,17 +10,17 @@ Creating a web app using BeautifulSoup and Splinter to scrape images of Mars, us
 
 3) Web app design was updated to be mobile-responsize as well as modified to stylize the button to scrape new data and to display the Mars Hemisphere images in thumbnails:
 
-** Web app mobile-responsive
+  ** Web app mobile-responsive
 
 #### Stylized Button screenshot
 ![](images/ResizedWebsite.png)
 
-** Button to scrape new data updated to darken when hovered over and button text updated to reflect both new data and images
+  ** Button to scrape new data updated to darken when hovered over and button text updated to reflect both new data and images
 
-#### Stylized Button screenshot
+#### Mobile-Responsive App screenshot
 ![](images/StylizedButton.png)
 
-** Mars Hemisphere images configured to display as thumbnails that provides rounded borders per image.  
+  ** Mars Hemisphere images configured to display as thumbnails that provides rounded borders per image.  
 
 #### Mars Hemispheres screenshot
 ![](images/MarsHemispheres.png)
