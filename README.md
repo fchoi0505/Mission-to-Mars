@@ -3,6 +3,10 @@ Creating a web app using BeautifulSoup and Splinter to scrape images of Mars, us
 
 1) Website scraping included in the Jupyter Notebook "Mission_to_Mars_Challenge.ipynb" with the new code for scraping the Mars Hemisphere images located in the "Challenge" portion of the notebook.
 
+#### Full Web App screenshot
+![](images/FullWebsite.png)
+
+
 2) Upon execution, the scraped data is stored in the Mongo database illustrated below:
 
 #### Mongo Database screenshot
